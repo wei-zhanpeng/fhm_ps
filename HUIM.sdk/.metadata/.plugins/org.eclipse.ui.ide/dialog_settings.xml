@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\haui_miner\haui_miner.sdk\Data_bsp"/>
+		<item value="D:\haui_miner\haui_miner.sdk\Data"/>
+		<item value="C:\Users\br\Desktop\haui_miner\haui_miner.sdk\Data_bsp"/>
+		<item value="C:\Users\br\Desktop\haui_miner\haui_miner.sdk\Data"/>
+		<item value="C:\Users\br\Desktop\01_ps_hello\ps_hello.sdk\Data_bsp"/>
+		<item value="C:\Users\br\Desktop\01_ps_hello\ps_hello.sdk\Data"/>
+		<item value="C:\Users\br\Desktop\01_ps_hello\01_ps_hello\ps_hello.sdk\Data_bsp"/>
+		<item value="C:\Users\br\Desktop\01_ps_hello\01_ps_hello\ps_hello.sdk\Data"/>
+	</list>
+</section>
